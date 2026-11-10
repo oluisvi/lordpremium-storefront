@@ -1,5 +1,5 @@
 # LORD PREMIUM® — loja conceito
 
-Protótipo de vitrine digital preparado pela ServAgency a partir das informações públicas do perfil Lord Premium e da conversa de prospecção.
+Protótipo de vitrine digital preparado pela ServAgency a partir das informações públicas do perfil Lord Premium e da conversa no WhatsApp.
 
-Os cartões de peças são exemplos visuais. Confirmar nomes, fotos, preços, tamanhos, cores e disponibilidade com a loja antes de qualquer publicação comercial. Os botões de consulta abrem o WhatsApp oficial divulgado na bio.
+O catálogo inclui modelos e fotos conceituais. Confirmar nomes, imagens, preços, tamanhos, cores e disponibilidade com a loja antes de usar como catálogo comercial. A localização e o contato apontam para os dados divulgados publicamente pela Lord Premium.
